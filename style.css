@@ -1,0 +1,18 @@
+body {
+    font-size: 15pt;
+}
+img{
+  text-align: center;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  display: flex ;
+  
+}
+h3{
+  text-align: center;
+}
+h5{
+    text-align: center;
+
+}
