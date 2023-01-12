@@ -8,7 +8,9 @@ let Hcolor = document.querySelector(".Hcolor");
 let Gender = document.querySelector(".Gender");
 let iq = document.getElementById("iq");
 
-
+document.getElementById('next').addEventListener('click', (e) => {
+  location.reload(true);
+})
 
 const options = {
   method: 'GET',
